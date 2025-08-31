@@ -1,0 +1,27 @@
+? this is where the directory is defined
+? comments do NOT-YET exist at the end of lines
+? lines and filenames that start with "? " are comments and get ignored
+? to clarify, that is a question mark (?) followed by a space ( )
+
+? start a folder name with "?c " to make it show up as collapsed
+
+index
+Rocket_To_Your_Aspirations/
+  Rocket_To_Your_Aspirations
+Compounding_Innovation/
+  Compounding_Innovation
+  Lean_Product_Management/
+    Compounding_Innovation_Overview
+    Implementing_Lean_Product_Management_at_Scale
+    Orient_Enterprise_Leaders
+    Learn_with_one_Product
+    Scale_Learnings_Across_the_Portfolio
+    Excel_with_Composability_and_Continuous_Innovation
+Network_Effects/
+  Network_Effects
+Viral_Ideation/
+  Viral_Ideation
+Generative_Learning/
+  Generative_Learning
+Artificial_Intelligence/
+  Artificial_Intelligence
