@@ -1,3 +1,3 @@
-# AccelRR8 LLC Knowledge Compendium
+# AccelRR8 Body of Knowledge
 
 TODO
