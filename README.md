@@ -1,3 +1,3 @@
-# AccelRR8 Framework
+# AccelRR8 Body of Knowledge
 
 TODO
