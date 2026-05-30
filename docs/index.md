@@ -1,6 +1,10 @@
 # Welcome to the AccelRR8 Body of Knowledge!
 
-Watch this space for more content coming soon.
+The AccelRR8 Body of Knowledge is a digital collection of knowledge proven to help enterprising leaders grow value exponentially.  Check back frequently for new content!
+
+## Components
+
+- [AccelRR8 Framework](https://accelrr8.github.io/)
 
 ## Navigation
 
