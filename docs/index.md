@@ -5,7 +5,7 @@ The AccelRR8 Body of Knowledge is a digital collection of knowledge proven to h
 ## Components
 
 - [AccelRR8 Framework](https://accelrr8.github.io/)
-- [AccelRR8 Consortium Non-Profit Management](https://accelrr8-consortium-nonprofit.github.io/Management-Public/index.html)
+- [AccelRR8 Consortium Non-Profit Management](/Management-Public/index.html)
 
 ## Navigation
 
